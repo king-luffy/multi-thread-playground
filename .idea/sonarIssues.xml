@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ArtConcurrentBook/src/chapter01/ConcurrencyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ArtConcurrentBook/src/chapter01/DeadLockDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ArtConcurrentBook/src/chapter02/Counter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MultiThreadLernen/src/multi/thread/MultiThreadMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multi-thread/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/artConcurrencyProgramming/chapter01/ConcurrencyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/artConcurrencyProgramming/chapter01/DeadLockDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyPractice/examples/CooperatingDeadlock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyPractice/examples/DemonstrateDeadlock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyPractice/examples/FutureRenderer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyPractice/examples/Point.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyPractice/examples/Renderer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyPractice/examples/TimedRun.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyPractice/examples/TimedRun2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyProgramming/chapter01/ConcurrencyTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyProgramming/chapter04/SimpleHttpServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/concurrencyProgramming/chapter05/TwinsLockTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/examples/Point.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t2/ThreadPriority.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t3/DaemonThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t4/InterruptThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t5/DeprecatedThreadStop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t6/ReaderThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t6/ShutdownThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t6/ShutdownThreadWithoutVolatile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t6/resort/ModiThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t6/resort/ReaderThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t6/resort/ResortTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/t6/util/Shutdownable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/testohter/Damon4Exception.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/util/SleepUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/util/TimeHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/multi-thread/AppTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/multithread/ErrorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/multithread/t1/MultiThreadInMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/multithread/t1/multiThreadInMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/multithread/t2/ThreadPriorityTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-g4-util/src/main/java/com/dianping/orderdish/dbh/fetchorder/g4common/util/ResponseBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/common/SqlSessionHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/po/phase2/OrderDealItemEx.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/po/phase2/OrderDealSubItemEx.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/po/phase2/OrderDishItemEx.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/po/phase2/OrderDishItemSmart.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/po/phase2/OrderPackageItemEx.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/po/phase2/SpecInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/po/phase2/SpuEx.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/CreateSmartOrderBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/FinishOrderBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/function/OperaterFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/function/TableFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/phase2/CreatePosOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/phase2/CreateSmartOrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/phase2/FetchPosMenuService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/phase2/FetchSpuInventoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/util/AbstractProcess.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/util/CreateOrderUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/resources/mappers/ruijie/CommonMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/resources/mappers/ruijie/DishMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/resources/mappers/ruijie/OperatorMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/resources/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/test/java/com/dianping/orderdish/dbh/ruijie/PayTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/test/java/com/dianping/orderdish/dbh/ruijie/SmartOrderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/test/java/com/dianping/orderdish/dbh/ruijie/addonprice/AddOnTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/test/java/com/dianping/orderdish/dbh/ruijie/addonprice/CreateOrderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/test/resources/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhangyu-plugin/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhangyu-plugin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhangyu-plugin/src/main/resources/log4j.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhangyu-plugin/src/main/resources/log4j.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/adapt/AuthInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/bean/request/AuthUserRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/controller/AuthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/controller/InvoiceManagerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/controller/ShopManageController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/controller/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/filter/CORSFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/filter/SsoUserFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/java/com/dianping/orderdish/idp/admin/web/service/ShopsInfoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-admin-web/idp-admin-web/src/main/resources/config/spring/appcontext-dpsf.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config-service/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/pojo/request/CACertifiedRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/pojo/request/SendMessageRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/service/InvoiceShopInfoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/dao/InvoiceShopCertifiedRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/dao/InvoiceShopInfoRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/mapper/InvoiceShopCertifiedMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/mapper/InvoiceShopInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/service/base/InvoiceMessageSendBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/service/base/InvoiceShopCertifiedBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/service/base/InvoiceShopInfoBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/service/impl/InvoiceShopAuthenticationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/service/impl/InvoiceShopDateServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/manager/service/impl/InvoiceShopInfoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/resources/config/spring/appcontext-server.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/resources/config/sqlmap/InvoiceShopCertifiedMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/resources/config/sqlmap/InvoiceShopInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/test/java/com/dianping/orderdish/idp/config/manager/service/impl/test/InvoiceAuthenticationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/test/java/com/dianping/orderdish/idp/config/manager/service/impl/test/InvoiceShopInfoServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/constant/AuthEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/constant/LoggerConfigEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/job/AuthJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/po/AuthData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/util/AuthData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/util/AuthenticationUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/util/CaCallable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/resources/config/spring/appcontext-dpsf.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/test/java/com/dianping/orderdish/idp/job/job/test/TestAuthJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/framework/filter/CrossDomainFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/controller/ShopConfigController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/controller/base/AuthenticationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/controller/base/AuthenticationUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/controller/base/CaCallable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/invoice/service/InvoiceManagerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/resources/config/spring/appcontext-dpsf.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
