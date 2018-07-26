@@ -7,7 +7,7 @@ import multithread.util.SleepUtils;
  */
 
 /**
- * 不可见性在新的jdk版本中
+ * 不可见性在新的jdk版本中?
  */
 public class ShutdownThreadWithoutVolatile {
     private static boolean ready;
@@ -23,8 +23,9 @@ public class ShutdownThreadWithoutVolatile {
 
     public static void main(String[] args) {
         new ReaderThread().start();
+        SleepUtils.secondPrint(2);
         number = 41;
         ready = true;
-        SleepUtils.secondPrint(5);
+        SleepUtils.secondPrint(2);
     }
 }

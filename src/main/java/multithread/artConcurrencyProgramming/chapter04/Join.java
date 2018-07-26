@@ -28,6 +28,7 @@ public class Join {
 
         public void run() {
             try {
+                System.out.println(Thread.currentThread().getName() + " start.");
                 thread.join();
             } catch (InterruptedException e) {
             }

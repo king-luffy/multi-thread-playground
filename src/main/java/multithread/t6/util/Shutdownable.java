@@ -12,12 +12,12 @@ public abstract class Shutdownable implements Runnable {
     @Override
     public void run() {
 
-        while(on && !Thread.currentThread().isInterrupted()){
+        while (on && !Thread.currentThread().isInterrupted()) {
             process();
         }
     }
 
-    public void cancel(){
+    public void cancel() {
         on = false;
     }
 

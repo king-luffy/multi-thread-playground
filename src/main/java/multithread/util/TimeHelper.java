@@ -2,6 +2,7 @@ package multithread.util;
 
 import org.apache.log4j.Logger;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
@@ -27,6 +28,15 @@ public class TimeHelper {
         System.out.println("End stamp("+stamp+"). Time duration is : "+duration+" ms");
         logger.info("End stamp("+stamp+"). Time duration is : "+duration+" ms");
         return duration+" ms";
+    }
+
+    public static String nowTime(){
+        return new SimpleDateFormat("HH:mm:ss").format(new Date());
+    }
+
+    public static void logNowTime(){
+        System.out.println(nowTime());
+        logger.info(nowTime());
     }
 
 }
