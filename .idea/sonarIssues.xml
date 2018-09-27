@@ -103,6 +103,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/multithread/deadlock/DeadLockSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/multithread/examples/Point.java">
           <value>
             <set />
@@ -298,6 +303,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/function/OrderFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-ruijie-plugin/src/main/java/com/dianping/orderdish/dbh/ruijie/repository/function/TableFunction.java">
           <value>
             <set />
@@ -388,12 +398,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhangyu-plugin/src/main/java/com/dianping/orderdish/dbh/zhangyu/impl/ZhangyuOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhangyu-plugin/src/main/resources/log4j.properties">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhangyu-plugin/src/main/resources/log4j.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhibaiwei_v8-plugin/src/main/java/com/dianping/orderdish/dbh/zhibaiwei_v8/base/smartorder/OrderFunction.java">
           <value>
             <set />
           </value>
@@ -453,12 +473,67 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-biz/idp-biz-service/src/main/java/com/dianping/orderdish/idp/biz/service/base/InvoiceBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-biz/idp-biz-service/src/main/java/com/dianping/orderdish/idp/biz/service/impl/InvoiceManagerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-biz/idp-biz-service/src/test/java/com/dianping/orderdish/idp/biz/service/InvoiceServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config-service/README.md">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/constant/BizOpenStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/constant/BizOpenType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/constant/ShopOpenStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/pojo/bo/ConfigCompanyBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/pojo/bo/ConfigTaxPlateBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/pojo/bo/ShopConfigInfoBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/pojo/bo/ShopOpenBO.java">
           <value>
             <set />
           </value>
@@ -473,7 +548,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/service/ICShopService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/service/InvoiceShopInfoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/service/app/InvoiceCompanyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-api/src/main/java/com/dianping/orderdish/idp/config/service/app/InvoiceShopService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/app/dao/InvoiceConfigCompanyRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/app/dao/InvoiceConfigShopRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/app/mapper/InvoiceConfigCompanyMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/app/service/InvoiceCompanyServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/app/service/InvoiceShopServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/dao/InvoiceConfigShopRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/entity/InvoiceConfigCompany.java">
           <value>
             <set />
           </value>
@@ -528,7 +658,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/service/ICShopServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/java/com/dianping/orderdish/idp/config/util/BuilderUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/resources/config/spring/appcontext-server.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/resources/config/sqlmap/ICCompanyMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/resources/config/sqlmap/ICShopMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/resources/config/sqlmap/ICTaxPlateMapper.xml">
           <value>
             <set />
           </value>
@@ -539,6 +694,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/main/resources/config/sqlmap/InvoiceShopInfoMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/test/java/com/dianping/orderdish/idp/config/app/mapper/test/CompanyMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/test/java/com/dianping/orderdish/idp/config/app/service/test/ICShopServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/idp-config-service/src/test/java/com/dianping/orderdish/idp/config/app/service/test/InvoiceShopServiceTest.java">
           <value>
             <set />
           </value>
@@ -554,6 +724,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-config/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-dock/idp-dock-service/src/main/java/com/dianping/orderdish/idp/dock/service/base/yundian/baiwang/YunDianBaiWangBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-dock/idp-dock-service/src/test/java/com/dianping/orderdish/idp/dock/BaseTest.java">
           <value>
             <set />
           </value>
@@ -598,7 +778,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/job/RetryQueryJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/po/AuthData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-job/src/main/java/com/dianping/orderdish/idp/repo/AuthenticationRepository.java">
           <value>
             <set />
           </value>
@@ -643,7 +833,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/framework/constant/LionKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/framework/filter/CrossDomainFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/framework/util/HttpUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/common/OpenStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/controller/AppInvoicingController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/controller/AppShopConfigController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/controller/InvoiceManageController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/controller/InvoiceRedirectController.java">
           <value>
             <set />
           </value>
@@ -673,7 +898,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/request/app/InvoiceListRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/request/app/InvoiceOpenRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/response/InvoiceDetailInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/response/InvoiceListWebResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/service/base/impl/RegisterExecutorBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/service/base/impl/RegisterHandlerBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/util/BuilderUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/util/SensitiveLogUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/java/com/dianping/orderdish/idp/webapi/einvoice/util/StatusUtils.java">
           <value>
             <set />
           </value>
@@ -704,6 +969,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/main/resources/config/spring/appcontext-dpsf.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/test/java/com/dianping/orderdish/idp/test/controller/ShopConfigControllerHttpTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-shop-manager/idp-shop-manager-web/src/test/java/com/dianping/orderdish/idp/test/invoice/service/ShopConfigContollerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-test/idp-test-service/src/main/java/com/dianping/orderdish/idp/test/service/impl/RegistePoolStressTestImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/idp-test/idp-test-service/src/test/java/com/dianping/orderdish/idp/test/internaldock/RegistePoolTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../sourceTree/orderdish-idp/invoice-composite/invoice-composite-api/src/main/java/com/dianping/invoice/data/result/InvoiceCompositeShopConfig.java">
           <value>
             <set />
           </value>

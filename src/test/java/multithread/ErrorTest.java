@@ -7,6 +7,8 @@ import org.junit.Test;
  */
 public class ErrorTest {
 
+    volatile private String test;
+
     @Test
     public void errorTest(){
         try{
